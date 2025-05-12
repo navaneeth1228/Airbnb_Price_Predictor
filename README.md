@@ -1,1 +1,1 @@
---
+Built a machine learning system to predict Airbnb prices with 92% accuracy. Deployed using Docker, managed data with SQLite3, and enabled real-time price insights through an interactive Streamlit app. Used DagsHub for collaborative version control and workflow tracking.
